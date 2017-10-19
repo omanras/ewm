@@ -4,7 +4,7 @@ Welcome to "Excel Web Manager v 0.1 Beta " , first of all the terms of use this 
 this program in any unethical things . This program is beta version so the programmer is not responsible in
 any security problems .
 
-This project Design to organized small business organization to convert csv of xlsx files into web forms allow to edit and insert informations to the databases or you can create tables in easy form .
+This project Design to organized small business organization to convert csv or xlsx files into web forms allow to edit and insert informations to the databases or you can create tables in easy form .
 
 others , this project came with internal message system who designed to get permissions level , so normal users can't send message to other group users and the admin of group can send the message to other admin group .
 
